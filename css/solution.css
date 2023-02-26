@@ -5,3 +5,11 @@
 .ex-1-square{
   transition: 3s;
 }
+
+/* ESERCIZIO 2 */
+.ex-2-square:active{
+  width: 100%;
+}
+.ex-2-square{
+  transition: 3s;
+}
