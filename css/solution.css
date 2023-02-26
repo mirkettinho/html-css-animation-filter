@@ -72,3 +72,13 @@
 .ex-9-img{
   transition: 3s;
 }
+
+/* ESERCIZIO 10 */
+.ex-10-icon{
+  animation: turn360degrees 0.5s linear infinite;
+}
+@keyframes turn360degrees{
+  0%{
+    transform: rotate(1turn);
+  }
+}
