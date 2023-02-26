@@ -21,3 +21,11 @@
 .ex-3-square{
   transition: 1s;
 }
+
+/* ESERCIZIO 4 */
+.ex-4-square:hover{
+  opacity: 0;
+}
+.ex-4-square{
+  transition: 1s;
+}
