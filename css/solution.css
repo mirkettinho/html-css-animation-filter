@@ -53,3 +53,12 @@
 .ex-7-img{
   transition: 3s;
 }
+
+/* ESERCIZIO 8 */
+.ex-8-img:hover{
+  filter: grayscale(0.8) blur(2px);
+  border-radius: 30px;
+}
+.ex-8-img{
+  transition: 4s;
+}
