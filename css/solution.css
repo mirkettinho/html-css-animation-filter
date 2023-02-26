@@ -82,3 +82,19 @@
     transform: rotate(1turn);
   }
 }
+
+/* ESERCIZIO 11 */
+.ex-11-icon:hover{
+  animation: turn3-4 2s linear;
+}
+@keyframes turn3-4{
+  0%{
+    transform: rotate(0);
+  }
+  90%{
+    transform: rotate(0.9turn);
+  }
+  100%{
+    transform: rotate(0);
+  }
+}
