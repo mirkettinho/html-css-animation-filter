@@ -45,3 +45,11 @@
 .ex-6-img:hover{
   filter: grayscale(1);
 }
+
+/* ESERCIZIO 7 */
+.ex-7-img:hover{
+  filter: saturate(4) grayscale(0.8);
+}
+.ex-7-img{
+  transition: 3s;
+}
